@@ -18,10 +18,16 @@ working on this right now 20170219
 # What's So Innovative About It?
 Originally launched at Decentralized Web Summit in Jun 2016, as Vector, Riot allows you to own your own data. It's a bridge between the sea of communication apps.
 
+# What's the Riot Stance on Privacy?
+We stand behind the idea that all of us should have the right to control our online data and that sharing this data is a choice. We will not contribute to the ever growing belief that simply because something is free that by default you should give up your right to privacy.
+
+Vector is a fully decentralized system, allowing anyone to run their own server in order to keep control over their data, and with the ability to provide an end-to-end encrypted service coming in our next release. Privacy and data ownership is critical to us.
+[Source](https://medium.com/@RiotChat/say-hello-to-vector-2d33b23a787#.pau5x5p8g)
+
 # Coming Soon
 * paid hosting support
 * more integrations - Basecamp, Invision, Zeplin
 * message editing
 * reactions
 * threads
-
+* stable release v1.0
