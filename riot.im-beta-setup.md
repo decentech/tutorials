@@ -72,6 +72,7 @@ I use Linux as my everyday operating system. If you use Debian, your in luck, as
 ***I am still writing this tutorial 20170219***
 # Riot Desktop App Version 1
 This installation assumes you have an active version of NodeJS. Personally, I've preferred this installed via [NVM](https://github.com/creationix/nvm). Nativefier will install a native stand-alone Electron wrapper around the web app. 
+
 1. `sudo npm install nativefier -g`
 2. `cd your/preferred/path/`
 3. `nativefier https://riot.im/app/`
@@ -79,6 +80,7 @@ This installation assumes you have an active version of NodeJS. Personally, I've
 
 # Riot Self Hosted Web App
 This installation again relies on NodeJS.
+
 2. `cd your/preferred/path/`
 3. `git clone https://github.com/vector-im/riot-web.git`
 4. `cd riot-web/`
