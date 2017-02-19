@@ -10,7 +10,7 @@ working on this right now 20170219
 * voip
 * video
 * private or public
-* bridged - IRC, Slack, Github, Jira (with Basecamp, Invision, and Zeplin coming soon)
+* integrations - IRC, Slack, Github, Gitter, Jira, Travis CI, Atom/RSS Feeds, Guggy, OFTC, Snoonet, Twitter, Giphy, Google Image Search (coming soon are Basecamp, Invision, and Zeplin)
 * 3rd party ID - email, phone, Facebook
 * no single point of failure
 
