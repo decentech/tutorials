@@ -1,5 +1,3 @@
-working on this right now 20170219
-
 # What Is Riot?
 * **decentralised** - based on Matrix
 * **open source** - Apache 2.0 License
@@ -69,6 +67,7 @@ There are a clearly a big number of ways to install Riot. Installing on a phone 
 
 I use Linux as my everyday operating system. If you use Debian, your in luck, as there's a DEB file just for you. As an added measure of personal security I have been guided to fully trust Arch User Repository (AUR). So far I've been unable to install a couple of apps as the process can be quite complex when you factor in dependancies. Riot was pretty easy in retrospect. So much so I tried installing in THREE different ways. As a self hosted webapp, as a self hosted development environment webapp, and as a desktop app. Here's how I went about it on Arch Linux.
 
+***I am still writing this tutorial 20170219***
 # Riot Desktop App
 
 # Riot Self Hosted Web App
