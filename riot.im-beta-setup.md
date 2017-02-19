@@ -88,7 +88,7 @@ This installation again relies on NodeJS.
 7. In your web browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080`
 
 # Riot Self Hosted Development Environment Web App
-***I am still writing this tutorial 20170219***
+
 1. **Clone and build matrix-js-sdk**
 2. `git clone https://github.com/matrix-org/matrix-js-sdk.git`
 3. `pushd matrix-js-sdk`
