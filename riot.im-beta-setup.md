@@ -103,11 +103,12 @@ This installation again relies on NodeJS.
 12. `npm install`
 13. `rm -r node_modules/matrix-js-sdk; ln -s ../../matrix-js-sdk node_modules/`
 14. `pushd`
-15. `git clone https://github.com/vector-im/riot-web.git` 
-16. `cd riot-web`
-17. `git checkout develop`
-18. `npm install`
-19. `rm -r node_modules/matrix-js-sdk; ln -s ../../matrix-js-sdk node_modules/`
-20. `rm -r node_modules/matrix-react-sdk; ln -s ../../matrix-react-sdk node_modules/`
-21. `npm start`
-22. In your browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080/`
+15. **Clone, build and start Riot**
+16. `git clone https://github.com/vector-im/riot-web.git` 
+17. `cd riot-web`
+18. `git checkout develop`
+19. `npm install`
+20. `rm -r node_modules/matrix-js-sdk; ln -s ../../matrix-js-sdk node_modules/`
+21. `rm -r node_modules/matrix-react-sdk; ln -s ../../matrix-react-sdk node_modules/`
+22. `npm start`
+23. In your browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080/`
