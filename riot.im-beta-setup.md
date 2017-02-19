@@ -1,19 +1,40 @@
 working on this right now 20170219
 
 # What Is Riot?
-* decentralised - based on Matrix
-* open source - Apache 2.0 License
-* federated
-* end to end encrypted - still in BETA labs
-* interoperable - Linux, Windows, Mac, Android, Fdroid, iOS, Windows Phone, Webapp
-* group chat
-* voip
-* video
-* private or public
-* integrations - IRC, Slack, Github, Gitter, Jira, Travis CI, Atom/RSS Feeds, Guggy, OFTC, Snoonet, Twitter, Giphy, Google Image Search
-* 3rd party ID - email, phone, Facebook
-* no single point of failure
-* no limits on features, group size, or usage of public rooms
+* **decentralised** - based on Matrix
+* **open source** - Apache 2.0 License
+* **federated**
+* end to end (E2E) **encrypted** - still in BETA labs
+* **interoperable**
+  * Linux
+  * Windows
+  * Mac
+  * Android
+  * Fdroid
+  * iOS
+  * Windows Phone
+  * Webapp
+* **group chat**
+* **voip**
+* **video**
+* **private or public**
+* **integrations**
+  * IRC
+  * Slack
+  * Github
+  * Gitter
+  * Jira
+  * Travis CI
+  * Atom/RSS Feeds
+  * Guggy
+  * OFTC
+  * Snoonet
+  * Twitter
+  * Giphy
+  * Google Image Search
+* **3rd party ID** - email, phone, Facebook
+* **no single point of failure**
+* **no limits** on features, group size, or usage of public rooms
 * use your identity across devices
 
 # What's So Innovative About It?
@@ -37,3 +58,6 @@ Signal requires SMS confirmation which can be intercepted in authoritarian state
 * threads
 * sharing of public encryption keys
 * stable release v1.0
+
+# Setup Riot
+
