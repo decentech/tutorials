@@ -41,7 +41,7 @@ working on this right now 20170219
 * use the same identity across devices
 
 # What's So Innovative About It?
-Originally launched at Decentralized Web Summit in Jun 2016, as Vector, Riot allows you to own your own data. It's a bridge between the sea of communication apps.
+Originally launched at Decentralized Web Summit in Jun 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
 
 Unlike Signal, Riot is not tied to your telephone number or the Android's 'Google Play' framework.
 
