@@ -1,6 +1,6 @@
-working on this right now 20170219 15:00 UTC
+working on this right now 20170219
 
-Riot is:
+#What Is Riot?
 * decentralised - based on Matrix
 * open source - Apache 2.0 License
 * federated
