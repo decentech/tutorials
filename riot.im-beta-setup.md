@@ -39,7 +39,7 @@
 * use the same identity across devices
 
 # What's So Innovative About It?
-Originally launched at [Decentralized Web Summit](https://archive.org/details/decentralizedwebsummit2016) in June 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
+Originally launching the BETA at [Decentralized Web Summit](https://archive.org/details/DWebSummit2016_Lightning_Talks_Session_B) in June 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
 
 Unlike Signal, Riot is not tied to your telephone number or the Android's 'Google Play' framework.
 
@@ -50,6 +50,8 @@ Vector is a fully decentralized system, allowing anyone to run their own server 
 [Source](https://medium.com/@RiotChat/say-hello-to-vector-2d33b23a787#.pau5x5p8g)
 
 Signal requires SMS confirmation which can be intercepted in authoritarian states. Riot does not require this. 
+
+Riot's [Privacy Policy](https://riot.im/privacy)
 
 # Coming Soon
 * paid hosting support
