@@ -48,7 +48,7 @@ To quote their blog:
 
 "We stand behind the idea that all of us should have the right to control our online data and that sharing this data is a choice. We will not contribute to the ever growing belief that simply because something is free that by default you should give up your right to privacy.!
 
-"Vector is a fully decentralized system, allowing anyone to run their own server in order to keep control over their data, and with the ability to provide an end-to-end encrypted service coming in our next release. Privacy and data ownership is critical to us." [Source](https://medium.com/@RiotChat/say-hello-to-vector-2d33b23a787#.pau5x5p8g)
+"Vector is a fully decentralized system, allowing anyone to run their own server in order to keep control over their data, and with the ability to provide an end-to-end encrypted service coming in our next release. Privacy and data ownership is critical to us." [Source](https://medium.com/@RiotChat/say-hello-to-vector-2d33b23a787)
 
 Signal requires SMS confirmation which can be intercepted in authoritarian states. Riot does not require this. 
 
