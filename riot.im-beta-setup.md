@@ -32,10 +32,13 @@ working on this right now 20170219
   * Twitter
   * Giphy
   * Google Image Search
-* **3rd party ID** - email, phone, Facebook
+* **Optional 3rd party ID**
+  * email
+  * phone
+  * Facebook
 * **no single point of failure**
 * **no limits** on features, group size, or usage of public rooms
-* use your identity across devices
+* use the same identity across devices
 
 # What's So Innovative About It?
 Originally launched at Decentralized Web Summit in Jun 2016, as Vector, Riot allows you to own your own data. It's a bridge between the sea of communication apps.
