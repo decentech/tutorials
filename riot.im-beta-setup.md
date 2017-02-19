@@ -10,7 +10,7 @@ working on this right now 20170219
 * voip
 * video
 * private or public
-* bridged - IRC, Slack, Github
+* bridged - IRC, Slack, Github, Jira (with Basecamp, Invision, and Zeplin coming soon)
 * 3rd party ID - email, phone, Facebook
 * no single point of failure
 
