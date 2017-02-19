@@ -63,4 +63,14 @@ Signal requires SMS confirmation which can be intercepted in authoritarian state
 * stable release v1.0
 
 # Setup Riot
+**Riot is still in beta. It's not yet rock solid. There might be some occasionally odd behaviour. Most importantly the encryption is still in labs. Proceed with caution.**
 
+There are a clearly a big number of ways to install Riot. Installing on a phone is rather standard when it comes to apps. Being a beta, however, it's a little more testing. The documentation it's rather outstanding, but I am sharing my own version as content for decen.tech, and also for those that might like my alternative way of describing the task.
+
+I use Linux as my everyday operating system. If you use Debian, your in luck, as there's a DEB file just for you. As an added measure of personal security I have been guided to fully trust Arch User Repository (AUR). So far I've been unable to install a couple of apps as the process can be quite complex when you factor in dependancies. Riot was pretty easy in retrospect. So much so I tried installing in THREE different ways. As a self hosted webapp, as a self hosted development environment webapp, and as a desktop app. Here's how I went about it on Arch Linux.
+
+# Riot Desktop App
+
+# Riot Self Hosted Web App
+
+# Riot Self Hosted Development Environment Web App
