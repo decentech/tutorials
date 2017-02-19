@@ -69,7 +69,6 @@ There are a clearly a big number of ways to install Riot. Installing on a phone 
 
 I use Linux as my everyday operating system. If you use Debian, your in luck, as there's a DEB file just for you. As an added measure of personal security I have been guided to fully trust Arch User Repository (AUR). So far I've been unable to install a couple of apps as the process can be quite complex when you factor in dependancies. Riot was pretty easy in retrospect. So much so I tried installing in THREE different ways. As a self hosted webapp, as a self hosted development environment webapp, and as a desktop app. Here's how I went about it on Arch Linux.
 
-***I am still writing this tutorial 20170219***
 # Riot Desktop App Version 1
 This installation assumes you have an active version of NodeJS. Personally, I've preferred this installed via [NVM](https://github.com/creationix/nvm). Nativefier will install a native stand-alone Electron wrapper around the web app. 
 
@@ -89,3 +88,4 @@ This installation again relies on NodeJS.
 7. In your web browser address bar enter `http://localhost:8080`
 
 # Riot Self Hosted Development Environment Web App
+***I am still writing this tutorial 20170219***
