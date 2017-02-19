@@ -39,7 +39,7 @@
 * use the same identity across devices
 
 # What's So Innovative About It?
-Originally launching the BETA at [Decentralized Web Summit](https://archive.org/details/DWebSummit2016_Lightning_Talks_Session_B) in June 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
+Originally launching the BETA at [Decentralized Web Summit](https://archive.org/details/DWebSummit2016_Lightning_Talks_Session_B) in June 2016, as Vector, Riot allows you to own your own data. Of course it's decentralised. It's your bridge across a sea of communication apps.
 
 Unlike Signal, Riot is not tied to your telephone number or the Android's 'Google Play' framework.
 
@@ -71,6 +71,11 @@ I use Linux as my everyday operating system. If you use Debian, your in luck, as
 
 ***I am still writing this tutorial 20170219***
 # Riot Desktop App
+This installation assumes you have an active version of NodeJS. Personally, I've preferred this installed via [NVM](https://github.com/creationix/nvm).
+1. sudo npm install nativefier -g
+2. `cd your/preferred/path/`
+3. nativefier https://riot.im/app/
+4. ./riot-*your-native-env*
 
 # Riot Self Hosted Web App
 
