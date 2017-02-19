@@ -67,7 +67,7 @@ Riot's [Privacy Policy](https://riot.im/privacy)
 
 There are a clearly a big number of ways to install Riot. Installing on a phone is rather standard when it comes to apps. Being a beta, however, it's a little more testing. The documentation it's rather outstanding, but I am sharing my own version as content for decen.tech, and also for those that might like my alternative way of describing the task.
 
-I use Linux as my everyday operating system. If you use Debian, your in luck, as there's a DEB file just for you. As an added measure of personal security I have been guided to fully trust Arch User Repository (AUR). So far I've been unable to install a couple of apps as the process can be quite complex when you factor in dependancies. Riot was pretty easy in retrospect. So much so I tried installing in THREE different ways. As a self hosted webapp, as a self hosted development environment webapp, and as a desktop app. Here's how I went about it on Arch Linux.
+I use Linux as my everyday operating system. If you use Debian, your in luck, as there's a DEB file just for you. As an added measure of personal security I have been guided to fully trust Arch User Repository (AUR). So far I've been unable to install a couple of apps as the process can be quite complex when you factor in dependancies. Riot was pretty easy in retrospect. So much so I tried installing in THREE different ways. As a self hosted webapp, as a self hosted development environment webapp, and as a desktop app. Here's how I went about it on Arch Linux using [this source](https://github.com/vector-im/riot-web).
 
 # Riot Desktop App Version 1
 This installation assumes you have an active version of NodeJS. Personally, I've preferred this installed via [NVM](https://github.com/creationix/nvm). Nativefier will install a native stand-alone Electron wrapper around the web app. 
@@ -85,7 +85,29 @@ This installation again relies on NodeJS.
 4. `cd riot-web/`
 5. `npm install`
 6. `npm start`
-7. In your web browser address bar enter `http://localhost:8080`
+7. In your web browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080`
 
 # Riot Self Hosted Development Environment Web App
 ***I am still writing this tutorial 20170219***
+1. **Clone and build matrix-js-sdk**
+2. `git clone https://github.com/matrix-org/matrix-js-sdk.git`
+3. `pushd matrix-js-sdk`
+4. `git checkout develop`
+5. `npm install`
+6. `npm install source-map-loader`
+7. `popd`
+8. **Clone and build matrix-react-sdk**
+9. `git clone https://github.com/matrix-org/matrix-react-sdk.git`
+10. `pushd matrix-js-sdk`
+11. `git checkout develop`
+12. `npm install`
+13. `rm -r node_modules/matrix-js-sdk; ln -s ../../matrix-js-sdk node_modules/`
+14. `pushd`
+15. `git clone https://github.com/vector-im/riot-web.git` 
+16. `cd riot-web`
+17. `git checkout develop`
+18. `npm install`
+19. `rm -r node_modules/matrix-js-sdk; ln -s ../../matrix-js-sdk node_modules/`
+20. `rm -r node_modules/matrix-react-sdk; ln -s ../../matrix-react-sdk node_modules/`
+21. `npm start`
+22. In your browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080/`
