@@ -1,8 +1,8 @@
 # What Is Riot?
-* **decentralised** - based on Matrix
-* **open source** - Apache 2.0 License
+* **decentralised** - based on [Matrix](http://matrix.org/#about)
+* **open source** - [Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/)
 * **federated**
-* end to end (E2E) **encrypted** - still in BETA labs
+* end to end (E2E) **encrypted** - [still in BETA labs](https://medium.com/@RiotChat/exciting-new-riot-release-get-ready-for-chatting-securely-acc93ecfe0a)
 * **interoperable**
   * Linux
   * Windows
@@ -39,7 +39,7 @@
 * use the same identity across devices
 
 # What's So Innovative About It?
-Originally launched at Decentralized Web Summit in Jun 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
+Originally launched at [Decentralized Web Summit](https://archive.org/details/decentralizedwebsummit2016) in June 2016, as Vector, Riot allows you to own your own data. And of course it's decentralised. It's your bridge across a sea of communication apps.
 
 Unlike Signal, Riot is not tied to your telephone number or the Android's 'Google Play' framework.
 
