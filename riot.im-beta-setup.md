@@ -87,6 +87,11 @@ This installation again relies on NodeJS.
 5. `npm install`
 6. `npm start`
 7. In your web browser address bar navigate to `http://127.0.0.1:8080/` or `http://localhost:8080`
+8. Periodically you should **update this installation** via:
+9. Navigate to the root `riot-web/` directory
+10. `git pull`
+11. `npm install`
+12. `npm start`
 
 # Riot Self Hosted Development Environment Web App
 
